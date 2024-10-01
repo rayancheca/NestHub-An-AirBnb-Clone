@@ -15,7 +15,6 @@ NestHub is a feature-rich SwiftUI application that mimics the core functionaliti
 ## Screenshots
 
 ![App Screenshot](link-to-screenshot)  
-*(Replace with actual screenshots)*
 
 ## Getting Started
 
@@ -31,7 +30,7 @@ NestHub is a feature-rich SwiftUI application that mimics the core functionaliti
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/NestHub.git
+   git clone https://github.com/rayabcheca/NestHub.git
    cd NestHub
 
    Open the project in Xcode:
